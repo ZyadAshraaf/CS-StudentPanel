@@ -1,3 +1,5 @@
+<?php session_start(); ?>
+
 
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top">
@@ -12,7 +14,7 @@
           <li><a class="active" href="/CS-StudentPanel/index.php">Home</a></li>
           <li><a href="/CS-StudentPanel/Auth/pages-login.php">Login</a></li>
           <li><a href="/CS-StudentPanel/Auth/pages-register.php">Register</a></li>
-          <li><a href="/CS-StudentPanel/Students/users-profile.php">profile</a></li>
+          <li><a href="/CS-StudentPanel/Students/users-profile.php?id">profile</a></li>
 
           <li><a href="/CS-StudentPanel/Specializations/Specialization.php">Specialization</a></li>
           <li><a href="/CS-StudentPanel/News/News.php">News</a></li>

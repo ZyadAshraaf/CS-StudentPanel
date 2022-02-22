@@ -7,14 +7,14 @@
         <div id="carouselExampleControls" class="carousel slide w-100" data-bs-ride="carousel">
             <div class="carousel-inner w-100">
                 <div class="carousel-item active">
-                    <img src="./assets/img/BUE-Opens-Admission-Door-for-High-School-Students.jpg" class="d-block w-100"
-                        alt="error404">
-                </div>
-                <div class="carousel-item">
                     <img src="./assets/img/University.jpg" class="d-block w-100" alt="error404">
                 </div>
                 <div class="carousel-item">
                     <img src="./assets/img/UniveristyOctobor.jpg" class="d-block w-100" alt="error404">
+                </div>
+                <div class="carousel-item ">
+                    <img src="./assets/img/BUE-Opens-Admission-Door-for-High-School-Students.jpg" class="d-block w-100"
+                        alt="error404">
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls"
